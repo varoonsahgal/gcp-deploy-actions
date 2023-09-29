@@ -5,7 +5,7 @@
 # 1. Authenticate to Google Cloud
 # 2. Deploy it to Cloud Run
 #
-# To configure this workflow:
+# To configure this workflow - do this:
 #
 # 1. Ensure the required Google Cloud APIs are enabled:
 #
