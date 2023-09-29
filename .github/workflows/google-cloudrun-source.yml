@@ -52,7 +52,7 @@ on:
 
 env:
   PROJECT_ID: instructor-01-400218 # TODO: update Google Cloud project id
-  SERVICE: YOUR_SERVICE_NAME # TODO: update Cloud Run service name
+  SERVICE: vs-test-cloudrun-service # TODO: update Cloud Run service name
   REGION: us-west2 # TODO: update Cloud Run service region
 
 jobs:
